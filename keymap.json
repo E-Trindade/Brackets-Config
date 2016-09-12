@@ -1,0 +1,21 @@
+{
+    "documentation": "https://github.com/adobe/brackets/wiki/User-Key-Bindings",
+	
+    "overrides": {
+		"Ctrl-Enter": null,
+		"F1": null,
+		
+		"ctrl-D": "edit.deletelines",
+		"Ctrl-Shift-D": "edit.duplicate",
+		"Shift-Enter": "edit.openLineBelow",
+		"ctrl-M": "view.togglePureCode",
+		"Alt-Up": "edit.lineUp",
+		"Alt-Down": "edit.lineDown",
+		
+		"ctrl-shift-f": "beautify.io",
+		
+		"Alt-Shift-1":   "cmd.splitViewNone",
+        "Alt-Shift-2":   "cmd.splitViewVertical",
+        "Alt-Shift-8":   "cmd.splitViewHorizontal"
+    }
+}

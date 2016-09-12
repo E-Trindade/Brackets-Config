@@ -1,0 +1,13 @@
+{
+    "fonts.fontSize": "12px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "noDistractions": false,
+    "livedev.multibrowser": false,
+    "styleActiveLine": true,
+    "themes.theme": "light-theme",
+    "useTabChar": true,
+    "linting.enabled": false,
+    "themes.themeScrollbars": true,
+    "beautify.io.on_save": false,
+    "wordWrap": true
+}
